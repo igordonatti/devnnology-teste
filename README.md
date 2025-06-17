@@ -52,3 +52,6 @@ Utilizarei o supabase por motivos de facilidade na hora de ser testado por terce
 Observações importantes:
 
 → Por ser de caráter de teste, não implementei segurança quanto a base de dados.
+
+### Desenho imaginado para o front: 
+![Captura de tela de 2025-06-17 14-12-17](https://github.com/user-attachments/assets/b9772c5a-2d88-4e27-864b-d8089c2656b7)
